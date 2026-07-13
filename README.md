@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About
 
-I'm an analytics professional with an MSc in Business Analytics (University of Exeter, 2025) and a BCom background. My work sits at the intersection of **statistical modelling, machine learning, and business decision-making** — from a dissertation-scale ML pipeline on 96k Brazilian e-commerce orders, to Tableau and Power BI dashboards tracking real revenue, to Excel-Solver LP models saving ~£100k in marginal revenue.
+I'm an analytics professional with an MSc in Business Analytics (University of Exeter, 2025) and a BBA in Business Analytics background. My work sits at the intersection of **statistical modelling, machine learning, and business decision-making** — from a dissertation-scale ML pipeline on 96k Brazilian e-commerce orders, to Tableau and Power BI dashboards tracking real revenue, to Excel-Solver LP models saving ~£100k in marginal revenue.
 
 - 🎓 MSc Business Analytics — University of Exeter Business School
 - 🧠 Focus: applied ML, causal thinking, decision analytics, dashboards
