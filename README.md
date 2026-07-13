@@ -53,6 +53,6 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 
 - 📧 parthbadiger24@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/parth-badiger/)
-- 🌐 [Portfolio](https://parthbadiger.bold.pro)
+- 🌐 [Portfolio](https://spontaneous-gnome-6016a8.netlify.app/)
 
 <sub>⭐ If a project resonates, a star helps others find it. Thanks for reading!</sub>
