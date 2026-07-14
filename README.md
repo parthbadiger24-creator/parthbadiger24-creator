@@ -38,7 +38,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 | Project | Stack | One-liner |
 |---|---|---|
 | [**Olist E-Commerce ML** (MSc Dissertation)](https://github.com/parthbadiger24-creator/Olist-Ecommerce-ML-Prediction) | Python · XGBoost · SMOTE · KMeans | Predicting customer satisfaction across 96k Brazilian e-commerce orders with leakage-resistant temporal split |
-| [**RoBERTa Sentiment NLP**](https://github.com/parthbadiger24-creator/NLP-sentiment-analysis-roberta) | PyTorch · HuggingFace · Transformers | Fine-tuned RoBERTa hits **88.5% accuracy** on IMDb sentiment classification (10k+ reviews) |
+| [**RoBERTa Sentiment NLP**](https://github.com/parthbadiger24-creator/NLP-sentiment-analysis-roberta) | PyTorch · HuggingFace · Transformers | Fine-tuned RoBERTa hits **92% accuracy** on IMDb sentiment classification (10k+ reviews) |
 | [**E-Commerce Sales Dashboard**](https://github.com/parthbadiger24-creator/E-Commerce-Sales-Analytics-Dashboard) | Tableau | Executive dashboard for revenue, category & regional drill-down analytics |
 | [**Car Price Prediction**](https://github.com/parthbadiger24-creator/Car-Price-Prediction-with-Machine-Learning) | Python · RF · XGBoost | Regression benchmark on 10k listings — XGBoost outperforms Random Forest |
 | [**Blue City FC Revenue LP**](https://github.com/parthbadiger24-creator/Blue-City-Football-Club-BCFC-Ticket-Revenue-Optimization) | Excel Solver · Simplex LP | LP model optimizing **ticket-mix revenue** under promotional t-shirt constraints |
