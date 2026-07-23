@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Parth Badiger 👋</h1>
 <p align="center">
-  <b>MSc Business Analytics @ University of Exeter</b> · Data Analyst / Business Analyst/BI analyst <br/>
+  <b>MSc Business Analytics @ University of Exeter</b> · Data Analyst / Business Analyst/ BI analyst <br/>
   Turning messy data into decisions — ML pipelines, BI dashboards, and optimisation models.
 </p>
 
