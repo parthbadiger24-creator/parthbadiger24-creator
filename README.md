@@ -35,6 +35,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 
 | Project | Stack | One-liner |
 |---|---|---|
+| [**TheLook Ecommerce Analytics**](https://github.com/parthbadiger24-creator/thelook-ecommerce-analytics) | Python · MySQL · Power BI · DAX | End-to-end analytics: star schema, 9 SQL deep-dives, dark-mode dashboard — **$10.76M revenue, 125K orders, 51.88% margin**. |
 | [**Olist E-Commerce ML** (MSc Dissertation)](https://github.com/parthbadiger24-creator/Olist-Ecommerce-ML-Prediction) | Python · XGBoost · SMOTE · KMeans | Predicting customer satisfaction across 96,353 Brazilian orders with leakage-resistant temporal validation. |
 | [**RoBERTa Sentiment NLP**](https://github.com/parthbadiger24-creator/NLP-sentiment-analysis-roberta) | PyTorch · HuggingFace · Transformers | Fine-tuned RoBERTa hits **90.5% accuracy** on IMDb vs LogReg 81.5% / NB 77%. |
 | [**E-Commerce Sales Dashboard**](https://github.com/parthbadiger24-creator/E-Commerce-Sales-Analytics-Dashboard) | Tableau | Refined executive dashboard for revenue, category & regional drill-down. |
