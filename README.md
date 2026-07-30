@@ -40,7 +40,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 | [**RoBERTa Sentiment NLP**](https://github.com/parthbadiger24-creator/NLP-sentiment-analysis-roberta) | PyTorch · HuggingFace · Transformers | Fine-tuned RoBERTa hits **90.5% accuracy** on IMDb vs LogReg 81.5% / NB 77%. |
 | [**E-Commerce Sales Dashboard**](https://github.com/parthbadiger24-creator/E-Commerce-Sales-Analytics-Dashboard) | Tableau | Refined executive dashboard for revenue, category & regional drill-down. |
 | [**Car Price Prediction**](https://github.com/parthbadiger24-creator/Car-Price-Prediction-with-Machine-Learning) | Python · RF · XGBoost | Regression benchmark on 10k listings — XGBoost MSE 65,564 vs RF 239,412. |
-| [**Blue City FC Revenue LP**](https://github.com/parthbadiger24-creator/Blue-City-FC-Ticket-Revenue-Optimization) | Excel Solver · Simplex LP | LP model finding **£4.85M** optimal ticket-mix revenue with shadow-price analysis. |
+| [**Blue City FC Revenue LP**](https://github.com/parthbadiger24-creator/Blue-City-Football-Club-BCFC-Ticket-Revenue-Optimization) | Excel Solver · Simplex LP | LP model finding **£4.85M** optimal ticket-mix revenue with shadow-price analysis. |
 | [**Chestnut Ridge Segmentation**](https://github.com/parthbadiger24-creator/Chestnut-Ridge-Marketing-Analytics) | R · KMeans · Hierarchical | Marketing analytics case study: 4-segment retail strategy backed by NbClust + GE matrix. |
 
 ### 📊 GitHub Stats
