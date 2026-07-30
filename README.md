@@ -41,7 +41,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 | [**E-Commerce Sales Dashboard**](https://github.com/parthbadiger24-creator/E-Commerce-Sales-Analytics-Dashboard) | Tableau | Refined executive dashboard for revenue, category & regional drill-down. |
 | [**Car Price Prediction**](https://github.com/parthbadiger24-creator/Car-Price-Prediction-with-Machine-Learning) | Python · RF · XGBoost | Regression benchmark on 10k listings — XGBoost MSE 65,564 vs RF 239,412. |
 | [**Blue City FC Revenue LP**](https://github.com/parthbadiger24-creator/Blue-City-FC-Ticket-Revenue-Optimization) | Excel Solver · Simplex LP | LP model finding **£4.85M** optimal ticket-mix revenue with shadow-price analysis. |
-| [**Chestnut Ridge Segmentation**](https://github.com/parthbadiger24-creator/Marketing-Analytics-Chestnut-Ridge) | R · KMeans · Hierarchical | Marketing analytics case study: 4-segment retail strategy backed by NbClust + GE matrix. |
+| [**Chestnut Ridge Segmentation**](https://github.com/parthbadiger24-creator/Chestnut-Ridge-Marketing-Analytics) | R · KMeans · Hierarchical | Marketing analytics case study: 4-segment retail strategy backed by NbClust + GE matrix. |
 
 ### 📊 GitHub Stats
 
