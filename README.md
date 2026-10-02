@@ -21,7 +21,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 - 🎓 MSc Business Analytics — University of Exeter Business School
 - 🧠 Focus: applied ML, causal thinking, decision analytics, dashboards
 - 🌍 Based in India · open to remote & on-site roles
-- ✍️ I publish notes on analytics workflows at my Netlify blog
+- ✍️ I publish notes on analytics workflows at my Portfolio Website
 
 ### 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ I'm an analytics professional with an MSc in Business Analytics (University of E
 
 **ML / DS** &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-006400) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 
-**BI / Viz** &nbsp; ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel%20Solver-217346?logo=microsoftexcel&logoColor=white)
+**BI / Viz** &nbsp; ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Advanced Excel](https://img.shields.io/badge/Excel%20Solver-217346?logo=microsoftexcel&logoColor=white)
 
 ### 📌 Featured Projects
 
